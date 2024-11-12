@@ -4,6 +4,7 @@ This project is a simple **Dog vs Cat image classification model** using **Convo
 
 [Watch the video here](https://github.com/karan89200/DOG_VS_CAT/blob/main/ezyZip.mp4)
 
+
 ## Table of Contents
 
 1. [Project Overview](#project-overview)
