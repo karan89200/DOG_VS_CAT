@@ -2,7 +2,7 @@
 
 This project is a simple **Dog vs Cat image classification model** using **Convolutional Neural Networks (CNN)** implemented with **TensorFlow** and **Keras**. The model is trained on a dataset of dog and cat images and is used to classify an image as either a dog or a cat.
 
-[Watch the video here](https://github.com/karan89200/DOG_VS_CAT/blob/main/ezyZip.mp4)
+https://github.com/user-attachments/assets/a4417817-b92e-4974-bf3f-43f8a8ba2d9c
 
 
 ## Table of Contents
